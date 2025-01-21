@@ -1,0 +1,1 @@
+ALTER TABLE topicos RENAME COLUMN dataDeCriacao TO data_de_criacao;
